@@ -4,7 +4,7 @@ public class Main {
 
         World g = new World();
        
-        while (true){
+        while (true) {
             g.moveEntities();
         }
     }
